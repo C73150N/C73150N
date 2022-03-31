@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @C73150N (Cleison Armando Manrique Aguirre)
-- 👀 I’m interested in computational aided engineering , computational fluid dynamics 
+- 👀 I’m interested in computational aided engineering , computational fluid dynamics and topology optimization.
 - 🌱 I’m currently learning plasma physics , quantum physics and artificial intelligence
 - 💞️ I’m looking to collaborate on proyects related with renewable energy
 - 📫 How to reach me : https://www.linkedin.com/in/cleison-armando-manrique-aguirre-b2a42011b/ 
